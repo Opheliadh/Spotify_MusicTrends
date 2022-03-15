@@ -1,8 +1,6 @@
 pandas
 numpy
-re
 seaborn
 datetime
 matplotlib
-mpl_toolkits
 sklearn
